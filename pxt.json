@@ -1,0 +1,21 @@
+{
+  "name": "enemy-patrol",
+  "description": "",
+  "dependencies": {
+    "device": "*"
+  },
+  "files": [
+    "main.ts",
+    "README.md",
+    "SECURITY.md",
+    "CODE_OF_CONDUCT.md",
+    "icon.png"
+  ],
+  "testFiles": ["test.ts"],
+  "targetVersions": {
+    "target": "1.4.41",
+    "targetId": "arcade"
+  },
+  "supportedTargets": ["arcade"],
+  "preferredEditor": "tsprj"
+}
